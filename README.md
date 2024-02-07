@@ -1,6 +1,6 @@
-<h2>I present to you ***rock-paper-scissors game***</h2>
+<h2>I present to you ROCK-PAPER-SCISSORS game</h2>
 <br>
-<h3>A few rules to get started</h3>
+<h3>A few rules to get started:</h3>
 <ul>
   <li>Enter at least 3 arguments as a string into the console</li>
   <li>Arguments should not be repeated</li>
